@@ -168,7 +168,7 @@ If it doesn’t work you might have to reset your assets (will lose all loaded s
 
 If bombs (even confirmed working ones) don't show up at all then you might even need to completely reinstall beat saber
 
-# Add Your Bombs to the Repo
+# Add Your Bombs to the Repo(DO NOT ADD TO THIS REPO THIS IS NOT A MOD REPO)
 
 RedBrumbler also supports adding your own bombs to the repository here!
 (explanation adapted from @Yuuki#0802 from BSMG, and by that RedBrumbler means mostly blatantly copied)

@@ -83,13 +83,12 @@ Now that your bomb is in unity, it’s time to convert them into raw unity mesh 
 
 Let it build in a folder of your choice (I would create a new folder called "Bomb_Build") and open UABE
 
-![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.9%20open%20shared%20assets%20with%20uabe.PNG)
-
+![alt text](https://github.com/Futuremappermydud/Quest-Beat-Saber-Guides/blob/master/images/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG
 Once in UABE, go to file -> open and navigate to the folder you built the scene in.
 
 Inside the build folder should be a folder called <unityprojectname>_data, go into that folder and open sharedassets0.assets with UABE
 
-![alt text]https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG)
 
 You’ll get this screen, and your model will have a name, The name should be default
 click the mesh and click export raw (!IMPORTANT! NAME THE .dat bomb.dat with no caps)

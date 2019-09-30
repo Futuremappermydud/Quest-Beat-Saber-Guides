@@ -41,19 +41,19 @@ I will not make this guide on how to use model software to do so, just how to ex
 
 For example, this bomb I made is based on a retro feel: This is also what it should look like when we are done
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.01%20retro%20preview.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.01%20retro%20preview.PNG)
 
 once you have your model
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.1%20model%20preview.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.1%20model%20preview.PNG)
 
 you want to create a folder you will remember
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.2%20create%20memorable%20folder.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.2%20create%20memorable%20folder.PNG)
 
 Next export the model to this folder as bomb.obj
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.3%20export%20to%20folder%20as%20bomb.obj'.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.3%20export%20to%20folder%20as%20bomb.obj'.PNG)
 
 Converting Your objects into a mod
 ====== 
@@ -61,52 +61,51 @@ After getting your .obj file, you’ll be able to make them into a mod compatibl
 
 You’ll start by installing unity version 2018.3/4.10f1 and create a new project(this may take a second)
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.4%20create%20unity%20project.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.4%20create%20unity%20project.PNG)
 
 Open that unity project and delete camera and light so we can begin
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.5%20delete%20bad%20stuff.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.5%20delete%20bad%20stuff.PNG)
 
 Move in the .obj file
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.6%20insert%20obj.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.6%20insert%20obj.PNG)
 
-So we can build the bomb (AKA, compile [i think]), move them into the left field of unity
+So we can build the bomb, move them into the left field of unity
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.7%20move%20to%20left%20field.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.7%20move%20to%20left%20field.PNG)
 
 Raw Unity Mesh Files
 ------
 Now that your bomb is in unity, it’s time to convert them into raw unity mesh files. To start off with that, you’ll need to build the scene, press Ctrl + shift + b to open build settings, and build the scene for windows, mac and linux
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.8%20build%20scene.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.8%20build%20scene.PNG)
 
-Let it build in a folder of your choice (I would create a new folder called "BombBuild") and open UABE
+Let it build in a folder of your choice (I would create a new folder called "Bomb_Build") and open UABE
 
-![alt text](https://github.com/RedBrumbler/BeatOnCustomSabers/blob/master/Guidefiles/modfilesmissing2.png)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/0.9%20open%20shared%20assets%20with%20uabe.PNG)
 
 Once in UABE, go to file -> open and navigate to the folder you built the scene in.
 
 Inside the build folder should be a folder called <unityprojectname>_data, go into that folder and open sharedassets0.assets with UABE
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/0.9%20open%20shared%20assets%20with%20uabe.PNG)
+![alt text]https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG)
 
-You’ll get this screen, and your model will have a name, lol the name is default btw
-click the mesh default and click export raw (!IMPORTANT! NAME THE .dat bomb.dat NO CAPSSSSSS HISSSSSSSS)
+You’ll get this screen, and your model will have a name, The name should be default
+click the mesh and click export raw (!IMPORTANT! NAME THE .dat bomb.dat with no caps)
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG)
+![alt text](https://github.com/RedBrumbler/BeatOnCustomSabers/blob/master/Guidefiles/modfiles5.png)
 
-Put this raw .dat file in a new folder that is the name of your bomb (we will be converting this folder to .zip for easy uploading later)
+Put the .dat file in a folder that is the name of your bomb or whatever you want to call it.
 
-![alt text](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFiles%20Bomb/1.1%20bomb.dat%20stuf.PNG)
+![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/1.1%20bomb.dat%20stuf.PNG)
 
-Now to make the actual mod, if you haven’t already download the [GuideFilesBomb.zip](https://github.com/Futuremappermydud/BeatOnCustomSabers/blob/master/Guidefiles/GuideFilesBomb.zip) and open the beatonmod.json in a text editor (would not recommend regular notepad, something like notepad++ works way better)
+Now to make the actual mod, if you haven’t already downloaded the Guide Files then use this link> (https://github.com/Futuremappermydud/Quest-Beat-Saber-Guides/blob/master/guidefiles/GuideFilesBomb.zip?raw=true) and open the beatonmod.json in a text editor vscode is my favorite.
 
 
 
 ### Taking a Picture of Your bomb
 
-#### A new update to Beaton (0.9.8) Brought us the possibility of adding cover images to our mods, it doesn't matter too much what the image is (make it recognizable! for bombs I recommend using a picture of the bomb, look at my bomb pictures/mod Cover image for a way to do this!) just make sure the image is 150 (w) x 200 (h) and is named "Cover.png" that way it will show up in BeatOn
 
 Before starting, you will need to zip your bomb up and drag it onto BeatOn's Upload screen. Make sure it is installed.
 
@@ -118,9 +117,9 @@ Before starting, you will need to zip your bomb up and drag it onto BeatOn's Upl
 7. Plug your Quest up to your PC
 8. Open SideQuest
 9. Go to the "Files" tab
-10. Head to the Oculus -> Screenshots folder
+10. Head to the Oculus -> videoshots folder
 11. Export to your bombs's folder
-12. export the video to a location on your pc, open the video and find a good spot to take a screen shot. Save the screenshot in your bomb's folder
+12. export the video to a location on your pc, open the video and find a good spot to take a screen shot (or convert to a gif). Save the screenshot/gif in your bomb's folder
 
 At the top(or bottom) of the json you’ll see this info, now all you have to do is input your own info in there and name things correctly.
 I recommend to only change the id, name, author, description and version numbers

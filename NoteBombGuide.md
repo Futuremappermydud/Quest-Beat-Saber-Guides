@@ -88,7 +88,7 @@ Once in UABE, go to file -> open and navigate to the folder you built the scene 
 
 Inside the build folder should be a folder called <unityprojectname>_data, go into that folder and open sharedassets0.assets with UABE
 
-![alt text](https://github.com/Futuremappermydud/quest-beat-saber-guides/blob/master/images/GuideFiles%20Bomb/1.0%20uabe%20screen.PNG)
+![alt text](https://github.com/Futuremappermydud/Quest-Beat-Saber-Guides/blob/master/images/GuideFiles%20Bomb/0.9%20open%20shared%20assets%20with%20uabe.PNG)
 
 You’ll get this screen, and your model will have a name, The name should be default
 click the mesh and click export raw (!IMPORTANT! NAME THE .dat bomb.dat with no caps)

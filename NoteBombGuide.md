@@ -169,12 +169,12 @@ If it doesn’t work you might have to reset your assets (will lose all loaded s
 If bombs (even confirmed working ones) don't show up at all then you might even need to completely reinstall beat saber
 
 # Add Your Bombs to the Repo(DO NOT ADD TO THIS REPO THIS IS NOT A MOD REPO)
-
+(link to reds repo https://github.com/RedBrumbler/BeatOnCustomSabers)
 RedBrumbler also supports adding your own bombs to the repository here!
 (explanation adapted from @Yuuki#0802 from BSMG, and by that RedBrumbler means mostly blatantly copied)
 
 1. Make a Github account if you haven't already
-2. Click the "fork" button in the top right of this repository
+2. Click the "fork" button in the top right of reds repository
 3. Download [github desktop](https://desktop.github.com/)
 4. Go to your forked repo (so, yourname/BeatOnCustomSabers) and click "Clone or Download", Copy that link
 5. Go to Github Desktop: File -> Clone repository -> URL and paste the link, then click clone (keep note of the local path you put the repo in)
@@ -188,6 +188,6 @@ RedBrumbler also supports adding your own bombs to the repository here!
 13. Press push
 14. Go back to your forked repo and press "Create pull request" and submit!
 
-***Once RedBrumbler or Yuuki accepts your pull request your bomb(s) will be added here!***
+***Once RedBrumbler or Yuuki accepts your pull request your bomb(s) will be added there!***
 
-**Please test your mods before submitting. Make sure they have correct JSON formatting and appear correctly on the BeatOn mod screen.**
+**Please test your mods before submitting to the repo. Make sure they have correct JSON formatting and appear correctly on the BeatOn mod screen.**

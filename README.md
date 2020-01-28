@@ -5,7 +5,7 @@ In this repo you will find
 -and many other things
 
  # Guides
- -Bomb/n
+ -Bomb
  -Chatui
 
 

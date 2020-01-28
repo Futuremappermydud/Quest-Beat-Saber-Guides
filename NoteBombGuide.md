@@ -1,6 +1,6 @@
-# Guide to Making Custom Bombs for BeatOn
+# Guide to Making Custom Bombs for BMBF
 
-###  iplay games!#8247‘s (or Futuremappermydud) Guide to making custom bombs for the BeatOn, and other quest mod loaders.
+###  iplay games!#8247‘s (or Futuremappermydud) Guide to making custom bombs for the BMBF, and other quest mod loaders.
 
 #### DISCLAIMER: Making custom bombs / getting custom bombs to work may require you to reset your assets (thus making you sort your songs again) multiple times, so losing all your song data is not uncommon, I am not responsible for you needing to reset your assets so don't complain about it to me or else
 
@@ -15,7 +15,7 @@
 # Other guides by me:
 # Useful Links and stuff
 
-- [BeatOn by Emulamer](https://github.com/emulamer/BeatOn/releases)
+- [BMBF by the Unicorns](https://github.com/emulamer/BeatOn/releases)
 - [Sidequest Discord](https://discord.me/sidequestvr)
 - [Beat Saber Modding Group Discord (BSMG)](https://discord.gg/beatsabermods)
 - [Fusion360](https://www.autodesk.com/products/fusion-360/students-teachers-educators)
